@@ -10,7 +10,7 @@
 
 This shader is **only for mobile phones and windows 10 editon** of minecraft (1.18.12 or below). The newer versions of Minecraft Bedrock uses Render Dragon which do not support shaders of the old render engine.
 
-[Click here for list of shaders supporting the new Render Dragon Engine.](https://github.com/DominoKorean/Render-dragon-shader-list)
+[List of shaders supporting the new Render Dragon Engine.](https://github.com/DominoKorean/Render-dragon-shader-list)
 
 ## Downloads
 

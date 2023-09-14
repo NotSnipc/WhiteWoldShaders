@@ -3,6 +3,8 @@
 [![Mentioned in Awesome <Awesome Minecraft>](https://awesome.re/mentioned-badge.svg)](https://github.com/bs-community/awesome-minecraft)
 
 **White Wolf Shaders** (WW Shaders) is a shader pack made to improve your gameplay’s looks with textures , waves , sun and moon, monochromatic weather cloud and <3
+
+> Because of nearly zero shader downloads, I am not willing to update the shader furthermore. It may receive minor fixes or updates.
    
 ![Pic_A](/textures/images/img.png)
 

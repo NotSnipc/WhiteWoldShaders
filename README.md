@@ -4,7 +4,7 @@
 
 **White Wolf Shaders** (WW Shaders) is a shader pack made to improve your gameplay’s looks with textures , waves , sun and moon, monochromatic weather cloud and <3
 
-> 🥲 Because of nearly zero shader downloads, I am not willing to update the shader furthermore with marking 1.1 as its last update.
+> 🥲 Because of nearly zero shader downloads, I am not willing to update the shader furthermore. Marking 1.1 as its last update.
    
 ![Pic_A](/textures/images/img.png)
 

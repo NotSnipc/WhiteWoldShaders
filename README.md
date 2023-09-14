@@ -15,4 +15,5 @@ This shader is **only for mobile phones and windows 10 editon** of minecraft (1.
 ## Downloads
 
  Use the `.mcpack` file to directly import shader to your game or extract the pack to your resource pack folder after dowloading the pack. Make sure the shader is prioritized above all the other packs.
-   * [White Wolf Shader 1.0 (latest)](https://github.com/NotSnipc/WhiteWolfShaders/releases/tag/release)
+   * [White Wolf Shader 1.1 (latest)](https://github.com/NotSnipc/WhiteWolfShaders/releases/tag/1.1)
+   * [White Wolf Shader 1.0](https://github.com/NotSnipc/WhiteWolfShaders/releases/tag/release)
